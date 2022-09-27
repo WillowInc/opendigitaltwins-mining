@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:OnOffSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "On/Off Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:BinarySensor;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

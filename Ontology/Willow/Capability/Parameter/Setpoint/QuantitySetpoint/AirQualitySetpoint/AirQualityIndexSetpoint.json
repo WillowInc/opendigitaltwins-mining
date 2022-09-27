@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:AirQualityIndexSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Air Quality Index Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:AirQualitySetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

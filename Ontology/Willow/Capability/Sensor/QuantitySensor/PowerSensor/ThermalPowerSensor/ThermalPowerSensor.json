@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:ThermalPowerSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Thermal Power Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:PowerSensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

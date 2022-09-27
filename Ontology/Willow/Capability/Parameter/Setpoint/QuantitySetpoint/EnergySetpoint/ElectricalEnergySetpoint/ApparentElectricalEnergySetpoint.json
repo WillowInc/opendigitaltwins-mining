@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:ApparentElectricalEnergySetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Apparent Electrical Energy Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:ElectricalEnergySetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

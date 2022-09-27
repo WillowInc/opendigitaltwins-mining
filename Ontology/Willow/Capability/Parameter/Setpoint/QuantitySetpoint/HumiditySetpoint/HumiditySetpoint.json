@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:HumiditySetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Humidity Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:QuantitySetpoint;1"
+  ],
+  "contents": [
+   
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

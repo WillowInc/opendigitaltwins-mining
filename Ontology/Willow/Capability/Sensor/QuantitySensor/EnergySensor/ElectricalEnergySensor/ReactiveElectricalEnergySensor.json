@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:ReactiveElectricalEnergySensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Reactive Electrical Energy Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:ElectricalEnergySensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

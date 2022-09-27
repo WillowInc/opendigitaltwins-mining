@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:HeatingLevelSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Heating Level Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:OnLevelSensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

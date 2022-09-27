@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:OccupiedState;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Occupied State"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:OccupiedUnoccupiedState;1",
+    "dtmi:com:willowinc:mining:PresentState;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "@id": "dtmi:com:willowinc:mining:ExhaustAirFlowSetpoint;1",
+  "@type": "Interface",
+  "displayName": "Exhaust Air Flow Setpoint",
+  "extends" : [
+    "dtmi:com:willowinc:mining:AirFlowSetpoint;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:PeopleOccupancySensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "People Occupancy Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:OccupancySensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

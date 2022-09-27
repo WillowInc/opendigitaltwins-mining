@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:EnableDisableSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Enable/Disable Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:OnOffSensor;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

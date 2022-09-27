@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:BreakGlassSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Break Glass Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:BinarySensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

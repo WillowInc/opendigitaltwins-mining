@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:DwellTimeSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Dwell Time Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:TimeSpanSetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

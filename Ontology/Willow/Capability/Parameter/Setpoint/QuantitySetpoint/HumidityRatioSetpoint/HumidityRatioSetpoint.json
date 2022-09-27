@@ -1,0 +1,19 @@
+{
+  "@id": "dtmi:com:willowinc:mining:HumidityRatioSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Humidity Ratio Setpoint"
+  },
+  "description": {
+    "en": "Humidity Ratio (Air Grains) Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:QuantitySetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

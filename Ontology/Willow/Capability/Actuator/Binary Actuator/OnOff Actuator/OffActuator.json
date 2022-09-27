@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:OffActuator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Off Actuator"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:OnOffActuator;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

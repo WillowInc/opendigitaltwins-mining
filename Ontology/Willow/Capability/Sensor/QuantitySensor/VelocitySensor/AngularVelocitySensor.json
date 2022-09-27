@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:AngularVelocitySensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Angular Velocity Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:VelocitySensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

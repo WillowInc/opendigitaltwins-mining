@@ -1,0 +1,19 @@
+{
+  "@id": "dtmi:com:willowinc:mining:HumidityRatioSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Humidity Ratio Sensor"
+  },
+  "description": {
+    "en": "Humidity Ratio (Air Grains) Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:QuantitySensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

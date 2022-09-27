@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:ModeSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Mode Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:Setpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

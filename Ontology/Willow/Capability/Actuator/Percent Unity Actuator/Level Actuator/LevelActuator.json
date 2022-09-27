@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:LevelActuator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Level Actuator"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:PercentUnityActuator;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

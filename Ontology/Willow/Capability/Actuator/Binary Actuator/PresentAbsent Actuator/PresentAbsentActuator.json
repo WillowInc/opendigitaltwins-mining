@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:PresentAbsentActuator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Present/Absent Actuator"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:BinaryActuator;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

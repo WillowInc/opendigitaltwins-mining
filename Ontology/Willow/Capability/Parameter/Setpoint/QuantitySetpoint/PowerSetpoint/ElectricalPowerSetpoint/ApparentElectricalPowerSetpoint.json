@@ -1,0 +1,14 @@
+{
+  "@id": "dtmi:com:willowinc:mining:ApparentElectricalPowerSetpoint;1",
+  "@type": "Interface",
+  "displayName": "Apparent Electrical Power Setpoint",
+  "extends" : [
+    "dtmi:com:willowinc:mining:ElectricalPowerSetpoint;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

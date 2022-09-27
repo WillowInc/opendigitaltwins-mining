@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:StorageTank;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Storage Tank"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:StorageEquipment;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

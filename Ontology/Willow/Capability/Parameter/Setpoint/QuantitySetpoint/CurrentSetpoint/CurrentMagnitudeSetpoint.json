@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:CurrentMagnitudeSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Current Magnitude Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:CurrentSetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:InferredOccupancySensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Inferred Occupancy Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:OccupancySensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

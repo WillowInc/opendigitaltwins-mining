@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:ServiceContract;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Service Contract"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:ContractDocument;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

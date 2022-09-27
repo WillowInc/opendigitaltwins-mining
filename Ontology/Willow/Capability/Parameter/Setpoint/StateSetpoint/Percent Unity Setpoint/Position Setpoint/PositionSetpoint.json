@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:PositionSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Position Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:PercentUnitySetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

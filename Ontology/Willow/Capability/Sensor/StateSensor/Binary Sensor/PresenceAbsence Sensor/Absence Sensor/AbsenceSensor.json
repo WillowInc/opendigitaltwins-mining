@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:AbsenceSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Absence Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:PresenceAbsenceSensor;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

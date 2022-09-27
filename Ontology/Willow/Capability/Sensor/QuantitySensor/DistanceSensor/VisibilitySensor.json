@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:VisibilitySensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Visibility Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:DistanceSensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

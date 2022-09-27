@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:PbAirQualitySensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Lead (Pb) Air Quality Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:AirQualitySensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

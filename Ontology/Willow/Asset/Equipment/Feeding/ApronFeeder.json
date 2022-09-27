@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:ApronFeeder;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Apron Feeder"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:Feeder;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

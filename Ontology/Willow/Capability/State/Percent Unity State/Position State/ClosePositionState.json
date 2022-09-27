@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:ClosePositionState;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Close Position State"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:PositionState;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

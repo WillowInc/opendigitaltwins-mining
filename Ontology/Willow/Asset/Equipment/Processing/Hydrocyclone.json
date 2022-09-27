@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:Hydrocyclone;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Hydrocyclone"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:ProcessingEquipment;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

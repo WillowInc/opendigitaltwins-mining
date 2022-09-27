@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:CapacitanceSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Capacitance Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:QuantitySetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

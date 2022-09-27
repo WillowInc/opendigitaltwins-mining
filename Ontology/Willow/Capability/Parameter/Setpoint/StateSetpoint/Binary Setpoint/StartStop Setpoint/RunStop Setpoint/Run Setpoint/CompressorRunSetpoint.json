@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:CompressorRunSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Compressor Run Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:RunSetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

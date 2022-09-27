@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:CurrentTHDSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Current Total Harmonic Distortion (THD) Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:CurrentSetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

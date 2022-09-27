@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:RunLevelActuator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Run Level Actuator"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:StartLevelActuator;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

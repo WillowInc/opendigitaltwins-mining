@@ -1,0 +1,13 @@
+{
+  "@id": "dtmi:com:willowinc:mining:ReturnAirFlowSensor;1",
+  "@type": "Interface",
+  "displayName": "Return Air Flow Sensor",
+  "extends" : [
+    "dtmi:com:willowinc:mining:AirFlowSensor;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:LoadShedOverrideState;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Load Shed Override State"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:OverrideState;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

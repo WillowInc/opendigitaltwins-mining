@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:MultiStateSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Multi-State Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:Sensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

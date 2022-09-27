@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:TotalPressureSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Total Pressure Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:PressureSetpoint;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

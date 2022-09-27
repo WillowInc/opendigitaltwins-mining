@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:OverrideSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Override Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:DefaultOverrideSensor;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

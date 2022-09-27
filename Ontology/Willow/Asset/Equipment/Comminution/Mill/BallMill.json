@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:BallMill;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Ball Mill"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:Mill;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

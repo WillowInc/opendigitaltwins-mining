@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:VFDRunLevelSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "VFD Run Level Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:RunLevelSetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

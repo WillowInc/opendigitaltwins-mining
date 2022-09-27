@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:StateSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "State Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:Setpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:HammerCrusher;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Hammer Crusher"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:Crusher;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

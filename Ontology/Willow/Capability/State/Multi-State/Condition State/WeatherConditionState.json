@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:WeatherConditionState;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Weather Condition State"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:ConditionState;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

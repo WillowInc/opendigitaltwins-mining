@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:VoltageImbalanceSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Voltage Imbalance Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:VoltageSetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

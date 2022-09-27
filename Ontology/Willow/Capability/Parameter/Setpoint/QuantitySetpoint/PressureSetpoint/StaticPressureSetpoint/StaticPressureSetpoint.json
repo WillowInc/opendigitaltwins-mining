@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:StaticPressureSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Static Pressure Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:PressureSetpoint;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

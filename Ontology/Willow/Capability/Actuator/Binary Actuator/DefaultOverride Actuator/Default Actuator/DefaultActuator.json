@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:DefaultActuator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Default Actuator"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:DefaultOverrideActuator;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

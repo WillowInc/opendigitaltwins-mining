@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:LinearAccelerationSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Linear Acceleration Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:AccelerationSensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

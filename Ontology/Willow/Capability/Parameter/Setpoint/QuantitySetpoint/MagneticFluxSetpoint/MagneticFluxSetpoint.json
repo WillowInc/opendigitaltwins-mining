@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:MagneticFluxSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Magnetic Flux Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:QuantitySetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

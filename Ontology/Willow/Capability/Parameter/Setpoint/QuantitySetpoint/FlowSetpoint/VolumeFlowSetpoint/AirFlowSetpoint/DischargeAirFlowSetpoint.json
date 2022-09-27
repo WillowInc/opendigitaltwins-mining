@@ -1,0 +1,13 @@
+{
+  "@id": "dtmi:com:willowinc:mining:DischargeAirFlowSetpoint;1",
+  "@type": "Interface",
+  "displayName": "Discharge Air Flow Setpoint",
+  "extends" : [
+    "dtmi:com:willowinc:mining:AirFlowSetpoint;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

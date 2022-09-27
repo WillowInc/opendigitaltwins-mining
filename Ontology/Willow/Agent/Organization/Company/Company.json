@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:Company;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Company"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:Organization;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

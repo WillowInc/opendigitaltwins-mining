@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:StateSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "State Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:Sensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

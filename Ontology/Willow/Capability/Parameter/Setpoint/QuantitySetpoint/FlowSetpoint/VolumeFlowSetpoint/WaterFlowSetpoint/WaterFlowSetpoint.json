@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:WaterFlowSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Water Flow Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:VolumeFlowSetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

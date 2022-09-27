@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:ConditionState;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Condition State"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:MultiState;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:VoltageSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Voltage Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:QuantitySensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

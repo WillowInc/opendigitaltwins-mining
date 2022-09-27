@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:VoltageAngleSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Voltage Angle Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:VoltageSetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

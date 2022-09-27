@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:LinearVelocitySetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Linear Velocity Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:VelocitySetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

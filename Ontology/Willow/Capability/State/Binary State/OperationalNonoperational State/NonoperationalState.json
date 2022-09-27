@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:NonoperationalState;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Nonoperational State"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:OperationalNonoperationalState;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

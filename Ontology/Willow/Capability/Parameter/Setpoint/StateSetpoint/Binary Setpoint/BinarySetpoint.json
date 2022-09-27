@@ -1,0 +1,25 @@
+{
+  "@id": "dtmi:com:willowinc:mining:BinarySetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Binary Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:Setpoint;1"
+  ],
+  "contents": [
+    {
+      "@type": "Property",
+      "name": "lastValue",
+      "displayName": {
+        "en": "Last Value"
+      },
+      "writable": true,
+      "schema": "boolean"
+    }
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

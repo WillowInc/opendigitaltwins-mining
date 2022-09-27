@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:Setpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:Capability;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

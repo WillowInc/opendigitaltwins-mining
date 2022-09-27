@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:WiFiDataSizeSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "WiFi Data Size Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:DataSizeSensor;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

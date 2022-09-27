@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:Mine;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Mine"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:Space;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

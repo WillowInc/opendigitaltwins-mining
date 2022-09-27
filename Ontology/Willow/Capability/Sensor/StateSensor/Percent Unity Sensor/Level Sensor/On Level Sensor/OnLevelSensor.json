@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:OnLevelSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "On Level Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:LevelSensor;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:OreProcessingSystem;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Ore Processing System"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:System;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

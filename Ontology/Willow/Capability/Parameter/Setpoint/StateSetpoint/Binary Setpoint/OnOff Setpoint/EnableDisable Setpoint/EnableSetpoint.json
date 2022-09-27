@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:EnableSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Enable Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:EnableDisableSetpoint;1",
+    "dtmi:com:willowinc:mining:OnSetpoint;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

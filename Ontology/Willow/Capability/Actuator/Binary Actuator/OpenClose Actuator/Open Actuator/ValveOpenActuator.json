@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:ValveOpenActuator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Valve Open Actuator"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:OpenActuator;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

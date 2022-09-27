@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:Drawing;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Drawing"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:Document;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

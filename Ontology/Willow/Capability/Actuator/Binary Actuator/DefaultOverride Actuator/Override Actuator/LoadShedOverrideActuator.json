@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:LoadShedOverrideActuator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Load Shed Override Actuator"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:OverrideActuator;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

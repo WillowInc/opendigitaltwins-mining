@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:RunLevelSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Run Level Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:StartLevelSetpoint;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:PowerSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Power Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:QuantitySensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

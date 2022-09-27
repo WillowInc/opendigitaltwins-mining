@@ -1,0 +1,31 @@
+{
+  "@id": "dtmi:com:willowinc:mining:Portfolio;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Portfolio"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:Collection;1"
+  ],
+  "contents": [
+    {
+      "@type": "Relationship",
+      "name": "operatedBy",
+      "displayName": {
+        "en": "operated by"
+      },
+      "target": "dtmi:com:willowinc:mining:Agent;1"
+    },
+    {
+      "@type": "Relationship",
+      "name": "ownedBy",
+      "displayName": {
+        "en": "owned by"
+      },
+      "target": "dtmi:com:willowinc:mining:Agent;1"
+    }
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

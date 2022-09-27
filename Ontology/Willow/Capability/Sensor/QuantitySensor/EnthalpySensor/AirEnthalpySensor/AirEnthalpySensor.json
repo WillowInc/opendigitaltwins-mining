@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:AirEnthalpySensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Air Enthalpy Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:EnthalpySensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

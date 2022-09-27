@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:CurrentImbalanceSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Current Imbalance Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:CurrentSensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

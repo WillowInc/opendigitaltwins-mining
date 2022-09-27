@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:ReturnConveyorIdler;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Return Conveyor Idler"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:ConveyorIdler;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

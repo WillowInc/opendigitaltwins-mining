@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:CurrentAngleSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Current Angle Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:CurrentSetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

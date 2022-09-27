@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:OpenCloseSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Open/Close Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:BinarySensor;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

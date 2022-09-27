@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:OpenPositionState;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Open Position State"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:PositionState;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

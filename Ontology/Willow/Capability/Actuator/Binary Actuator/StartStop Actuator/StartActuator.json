@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:StartActuator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Start Actuator"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:StartStopActuator;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

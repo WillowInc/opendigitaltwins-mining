@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:Sensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:Capability;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

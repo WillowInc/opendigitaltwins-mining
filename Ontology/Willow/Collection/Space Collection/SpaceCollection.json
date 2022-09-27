@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:SpaceCollection;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Space Collection"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:Collection;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

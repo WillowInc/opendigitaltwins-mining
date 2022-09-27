@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:PeopleCountSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "People Count Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:CountSensor;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

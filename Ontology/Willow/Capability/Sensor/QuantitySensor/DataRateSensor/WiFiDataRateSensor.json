@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:WiFiDataRateSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "WiFi Data Rate Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:DataRateSensor;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

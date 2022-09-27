@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:MineralProcessingFilter;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Mineral Processing Filter"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:ProcessingEquipment;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

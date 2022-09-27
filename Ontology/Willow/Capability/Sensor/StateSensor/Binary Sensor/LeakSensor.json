@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:LeakSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Leak Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:BinarySensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

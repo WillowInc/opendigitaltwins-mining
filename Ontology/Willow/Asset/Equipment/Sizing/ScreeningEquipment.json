@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:ScreenEquipment;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Screen Equipment"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:SizingEquipment;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

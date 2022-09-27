@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:System;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "System"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:EquipmentCollection;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:HeatingLevelSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Heating Level Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:OnLevelSetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:FeelsLikeTemperatureSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Feels Like Temperature Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:TemperatureSensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

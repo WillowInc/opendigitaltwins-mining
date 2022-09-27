@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:RunSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Run Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:RunStopSetpoint;1",
+    "dtmi:com:willowinc:mining:StartSetpoint;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

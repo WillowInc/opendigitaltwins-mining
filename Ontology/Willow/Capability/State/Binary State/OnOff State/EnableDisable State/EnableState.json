@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:EnableState;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Enable State"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:EnableDisableState;1",
+    "dtmi:com:willowinc:mining:OnState;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

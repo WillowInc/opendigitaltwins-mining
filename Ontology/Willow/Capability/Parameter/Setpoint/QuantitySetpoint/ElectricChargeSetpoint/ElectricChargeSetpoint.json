@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:ElectricChargeSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Electric Charge Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:QuantitySetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

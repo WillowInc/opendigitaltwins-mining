@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:WaterTemperatureSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Water Temperature Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:TemperatureSetpoint;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

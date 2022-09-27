@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:MiningChute;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Mining Chute"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:DistributionAsset;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

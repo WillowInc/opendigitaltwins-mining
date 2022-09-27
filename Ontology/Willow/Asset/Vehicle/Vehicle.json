@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:Vehicle;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Vehicle"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:Asset;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

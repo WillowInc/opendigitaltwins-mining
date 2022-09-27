@@ -1,0 +1,26 @@
+{
+  "@id": "dtmi:com:willowinc:mining:PercentUnitySetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Percent Unity Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:Setpoint;1"
+  ],
+  "contents": [
+    {
+      "@type": "Property",
+      "name": "lastValue",
+      "displayName": {
+        "en": "Last Value"
+      },
+      "writable": true,
+      "schema": "double",
+      "comment": "%"
+    }
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

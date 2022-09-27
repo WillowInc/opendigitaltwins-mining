@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:EthernetDataSizeSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Ethernet Data Size Sensor"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:DataSizeSensor;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}
