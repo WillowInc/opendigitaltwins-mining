@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:willowinc:mining:PistonPump;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Piston Pump"
+  },
+  "description": {
+    "en": "A reciprocating positive displacement pump that works by oscillating a piston."
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:ReciprocatingPositiveDisplacementPump;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

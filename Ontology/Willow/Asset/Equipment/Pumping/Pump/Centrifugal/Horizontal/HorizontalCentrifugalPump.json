@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:willowinc:mining:HorizontalCentrifugalPump;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Horizontal Centrifugal Pump"
+  },
+  "description": {
+    "en": "A centrifugal pump where the pump head is located adjacent to the motor on a horizontal plane."
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:CentrifugalPump;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

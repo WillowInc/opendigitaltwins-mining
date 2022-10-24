@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:willowinc:mining:SubmersibleCentrifugalPump;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Submersible Centrifugal Pump"
+  },
+  "description": {
+    "en": "A centrifugal pump where the pump is completely submerged in the working fluid."
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:CentrifugalPump;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

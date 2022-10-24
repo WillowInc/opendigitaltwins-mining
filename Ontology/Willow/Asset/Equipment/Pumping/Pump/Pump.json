@@ -4,6 +4,9 @@
   "displayName": {
     "en": "Pump"
   },
+  "description": {
+    "en": "A mechanical device that moves fluids using suction or pressure, typically by converting electrical energy to hydraulic energy."
+  },
   "extends" : [
     "dtmi:com:willowinc:mining:PumpingEquipment;1"
   ],

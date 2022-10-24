@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:willowinc:mining:RotaryPositiveDisplacementPump;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Rotary Positive Displacement Pump"
+  },
+  "description": {
+    "en": "A positive displacement pump that works by rotating a part such as a gear, lobe, or vane."
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:PositiveDisplacementPump;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

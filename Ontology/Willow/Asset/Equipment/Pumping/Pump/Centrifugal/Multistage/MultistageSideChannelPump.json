@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:willowinc:mining:MultistageSideChannelPump;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Multistage Side Channel Pump"
+  },
+  "description": {
+    "en": "A multistage centrifugal pump in which the fluid passes along an outer side channel, a.k.a. liquid ring pump."
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:MultistageCentrifugalPump;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

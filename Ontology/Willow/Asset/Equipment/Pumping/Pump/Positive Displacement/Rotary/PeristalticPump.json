@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:willowinc:mining:PeristalticPump;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Peristaltic Pump"
+  },
+  "description": {
+    "en": "A rotary positive displacement pump that consists of a flexible tube inside the pump casing which is compressed by a rotating motion, a.k.a. hose pump, roller pump."
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:RotaryPositiveDisplacementPump;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

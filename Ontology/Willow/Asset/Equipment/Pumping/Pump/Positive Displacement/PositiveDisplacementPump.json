@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:willowinc:mining:PositiveDisplacementPump;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Positive Displacement Pump"
+  },
+  "description": {
+    "en": "A pump that moves fluid by repeatedly enclosing a fixed volume and forcing (displacing) it into the dicharge pipe."
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:Pump;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

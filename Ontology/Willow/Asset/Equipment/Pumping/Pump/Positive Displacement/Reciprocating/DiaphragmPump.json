@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:willowinc:mining:DiaphragmPump;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Diaphragm Pump"
+  },
+  "description": {
+    "en": "A reciprocating positive displacement pump that works by oscillating a diaphragm."
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:ReciprocatingPositiveDisplacementPump;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}
