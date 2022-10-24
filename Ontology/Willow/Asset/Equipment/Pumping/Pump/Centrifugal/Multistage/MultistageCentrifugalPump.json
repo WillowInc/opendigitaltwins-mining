@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:willowinc:mining:MultistageCentrifugalPump;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Multistage Centrifugal Pump"
+  },
+  "description": {
+    "en": "A centrifugal pump containing two or more impellers."
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:CentrifugalPump;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:willowinc:mining:ReciprocatingPositiveDisplacementPump;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Reciprocating Positive Displacement Pump"
+  },
+  "description": {
+    "en": "A positive displacement pump that works by repeated back-and-forth movement (strokes) of a part such as a piston, plunger, or diaphragm."
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:PositiveDisplacementPump;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

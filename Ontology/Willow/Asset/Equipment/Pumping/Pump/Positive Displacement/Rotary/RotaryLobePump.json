@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:willowinc:mining:RotaryLobePump;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Rotary Lobe Pump"
+  },
+  "description": {
+    "en": "A rotary positive displacement pump that consists of rotating lobes designed to almost meet but not touch."
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:RotaryPositiveDisplacementPump;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

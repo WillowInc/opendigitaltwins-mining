@@ -1,0 +1,19 @@
+{
+  "@id": "dtmi:com:willowinc:mining:PistonDiaphragmPump;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Piston Diaphragm Pump"
+  },
+  "description": {
+    "en": "A piston pump that also uses a diaphgram to isolate the media from the piston."
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:PistonPump;1",
+    "dtmi:com:willowinc:mining:DiaphragmPump;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

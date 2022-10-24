@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:willowinc:mining:ExternalGearPump;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "External Gear Pump"
+  },
+  "description": {
+    "en": "A gear pump that consists of two interlocking gears supported by separate shafts."
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:GearPump;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:willowinc:mining:ScrewPump;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Screw Pump"
+  },
+  "description": {
+    "en": "A rotary positive displacement pump that consists of two or more interlocking screws."
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:RotaryPositiveDisplacementPump;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

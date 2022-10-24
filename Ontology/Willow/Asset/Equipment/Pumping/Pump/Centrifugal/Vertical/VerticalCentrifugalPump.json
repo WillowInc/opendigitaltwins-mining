@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:willowinc:mining:VerticalCentrifugalPump;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Vertical Centrifugal Pump"
+  },
+  "description": {
+    "en": "A centrifugal pump where the pump head is located vertically above the motor."
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:CentrifugalPump;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

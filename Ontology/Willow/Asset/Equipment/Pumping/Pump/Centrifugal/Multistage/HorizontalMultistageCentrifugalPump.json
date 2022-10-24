@@ -1,0 +1,19 @@
+{
+  "@id": "dtmi:com:willowinc:mining:HorizontalMultistageCentrifugalPump;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Horizontal Multistage Centrifugal Pump"
+  },
+  "description": {
+    "en": "A multistage centrifugal pump in the horizontal orientation."
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:MultistageCentrifugalPump;1",
+    "dtmi:com:willowinc:mining:HorizontalCentrifugalPump;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

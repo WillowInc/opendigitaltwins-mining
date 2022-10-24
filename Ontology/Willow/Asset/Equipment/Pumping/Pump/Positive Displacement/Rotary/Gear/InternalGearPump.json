@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:willowinc:mining:InternalGearPump;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Internal Gear Pump"
+  },
+  "description": {
+    "en": "A gear pump that consists of two interlocking gears of different sizes with one rotating inside the other."
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:GearPump;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

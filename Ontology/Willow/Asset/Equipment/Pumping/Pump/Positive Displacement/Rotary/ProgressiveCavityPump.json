@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:willowinc:mining:ProgressiveCavityPump;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Progressive Cavity Pump"
+  },
+  "description": {
+    "en": "A rotary positive displacement pump that consists of a helical rotor."
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:RotaryPositiveDisplacementPump;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

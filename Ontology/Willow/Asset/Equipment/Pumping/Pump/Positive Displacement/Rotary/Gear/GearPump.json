@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:willowinc:mining:GearPump;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Gear Pump"
+  },
+  "description": {
+    "en": "A rotary positive displacement pump that consists of two interlocking gears that rotate."
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:RotaryPositiveDisplacementPump;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

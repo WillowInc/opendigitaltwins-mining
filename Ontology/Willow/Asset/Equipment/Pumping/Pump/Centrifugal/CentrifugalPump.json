@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:willowinc:mining:CentrifugalPump;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Centrifugal Pump"
+  },
+  "description": {
+    "en": "A pump which changes the direction of the fluid by ninetry degrees as it flows over the impeller."
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:Pump;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

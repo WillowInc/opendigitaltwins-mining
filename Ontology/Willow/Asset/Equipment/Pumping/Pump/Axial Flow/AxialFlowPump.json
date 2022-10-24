@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:willowinc:mining:AxialFlowPump;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Axial Flow Pump"
+  },
+  "description": {
+    "en": "A pump which pushes the fluid outward in the same direction as it entered."
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:Pump;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}
