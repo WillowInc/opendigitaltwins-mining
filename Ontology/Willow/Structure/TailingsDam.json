@@ -1,0 +1,19 @@
+{
+  "@id": "dtmi:com:willowinc:mining:TailingsDam;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Tailings Dam"
+  },
+  "description": {
+    "en": "An embankment dam used to store byproducts of mining operations."
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:Dam;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

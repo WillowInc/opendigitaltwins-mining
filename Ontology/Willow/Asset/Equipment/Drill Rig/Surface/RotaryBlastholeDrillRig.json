@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:RotaryBlastholeDrillRig;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Rotary Blasthole Drill Rig"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:SurfaceDrillRig;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

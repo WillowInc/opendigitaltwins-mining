@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:TunnelingJumboDrillRig;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Tunneling Jumbo Drill Rig"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:UndergroundDrillRig;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

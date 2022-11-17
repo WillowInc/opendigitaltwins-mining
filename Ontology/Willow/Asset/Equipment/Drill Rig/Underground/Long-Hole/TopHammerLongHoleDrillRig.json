@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:TopHammerLongHoleDrillRig;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Top Hammer Long-hole Drill Rig"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:LongHoleDrillRig;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

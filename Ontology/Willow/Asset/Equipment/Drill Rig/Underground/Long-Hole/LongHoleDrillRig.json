@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:LongHoleDrillRig;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Long-hole Drill Rig"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:UndergroundDrillRig;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

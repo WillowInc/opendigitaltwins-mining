@@ -1,0 +1,19 @@
+{
+  "@id": "dtmi:com:willowinc:mining:Dam;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Dam"
+  },
+  "description": {
+    "en": "A retaining structure"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:Structure;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}
