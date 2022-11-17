@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:DrillRig;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Drill Rig"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:Equipment;1",
+    "dtmi:com:willowinc:mining:Vehicle;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

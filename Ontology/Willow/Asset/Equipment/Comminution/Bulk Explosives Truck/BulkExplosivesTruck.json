@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:BulkExplosivesTruck;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Bulk Explosives Truck"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:ComminutionEquipment;1",
+    "dtmi:com:willowinc:mining:Vehicle;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

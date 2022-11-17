@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:willowinc:mining:SurfaceTopHammerDrillRig;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Surface Top Hammer Drill Rig"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:SurfaceDrillRig;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

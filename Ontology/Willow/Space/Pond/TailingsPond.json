@@ -1,0 +1,19 @@
+{
+  "@id": "dtmi:com:willowinc:mining:TailingsPond;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Pond"
+  },
+  "description": {
+    "en": "A pond with refused mining tailings which is generally impounded with a tailings dam."
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:Pond;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

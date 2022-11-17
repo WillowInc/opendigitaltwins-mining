@@ -1,0 +1,19 @@
+{
+  "@id": "dtmi:com:willowinc:mining:Pond;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Pond"
+  },
+  "description": {
+    "en": "An area filled with water, either natural or artificial, that is smaller than a lake."
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:Space;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}
