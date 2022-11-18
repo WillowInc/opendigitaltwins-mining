@@ -1,0 +1,19 @@
+{
+  "@id": "dtmi:com:willowinc:mining:UnplannedOfflineMassFlowLossPerformanceIndicator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Unplanned Offline Mass Flow Loss Performance Indicator"
+  },
+  "description": {
+    "en": "A performance indicator for the unplanned loss in mass flow due to equipment or process being offline."
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:OfflineMassFlowLossPerformanceIndicator;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}
