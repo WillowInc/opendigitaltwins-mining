@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:willowinc:mining:MassFlowPerformanceIndicator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Mass Flow Performance Indicator"
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:FlowPerformanceIndicator;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@id": "dtmi:com:willowinc:mining:OfflineMassFlowLossPerformanceIndicator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Offline Mass Flow Loss Performance Indicator"
+  },
+  "description": {
+    "en": "A performance indicator for the loss in mass flow due to equipment or process being offline."
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:MassFlowLossPerformanceIndicator;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

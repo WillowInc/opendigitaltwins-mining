@@ -1,0 +1,19 @@
+{
+  "@id": "dtmi:com:willowinc:mining:InternalConstraintsMassFlowLossPerformanceIndicator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Internal Constraints Mass Flow Loss Performance Indicator"
+  },
+  "description": {
+    "en": "A performance indicator for the loss in mass flow due to internal constraints while the equipment or process is online."
+  },
+  "extends" : [
+    "dtmi:com:willowinc:mining:OnlineMassFlowLossPerformanceIndicator;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}
